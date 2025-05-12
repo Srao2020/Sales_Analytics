@@ -1,0 +1,20 @@
+# ninja log v6
+5	829	1747023884729526843	CMakeFiles/Realtime_sales_analytics.dir/benchmark.cpp.o	b7c686abc7e9db2f
+2	652	1747023107548802413	CMakeFiles/Realtime_sales_analytics.dir/AnalyticsEngine.cpp.o	d88559167f3ca1fb
+2	677	1747023107549267440	CMakeFiles/Realtime_sales_analytics.dir/ProductTracker.cpp.o	c37390e977776bf3
+3	80	1747023927009764465	build.ninja	36b06fbe4f36d7f8
+1	714	1747023107548446466	CMakeFiles/Realtime_sales_analytics.dir/SalesStreamSimulator.cpp.o	2c057efea74a93dc
+4	802	1747023786618909677	CMakeFiles/Realtime_sales_analytics.dir/main.cpp.o	6ccc14ae907b5730
+3	768	1747023107549730842	CMakeFiles/Realtime_sales_analytics.dir/SlidingWindow.cpp.o	4969d4e4d30371fa
+676	721	1747023360235100189	Realtime_sales_analytics	ffec832a48ddcf60
+2	50	1747023927009764465	build.ninja	36b06fbe4f36d7f8
+2	689	1747023927019540997	CMakeFiles/Realtime_sales_analytics.dir/main.cpp.o	6ccc14ae907b5730
+689	731	1747023927705824016	Realtime_sales_analytics	ffec832a48ddcf60
+4	814	1747024014810679346	CMakeFiles/Realtime_sales_analytics.dir/main.cpp.o	6ccc14ae907b5730
+814	854	1747024015620963344	Realtime_sales_analytics	ffec832a48ddcf60
+8	677	1747024203785943715	CMakeFiles/Realtime_sales_analytics.dir/AnalyticsEngine.cpp.o	d88559167f3ca1fb
+7	696	1747024203784359431	CMakeFiles/Realtime_sales_analytics.dir/SalesStreamSimulator.cpp.o	2c057efea74a93dc
+5	911	1747024203782557903	CMakeFiles/Realtime_sales_analytics.dir/main.cpp.o	6ccc14ae907b5730
+912	967	1747024204689185895	Realtime_sales_analytics	ffec832a48ddcf60
+5	572	1747024281078076022	CMakeFiles/Realtime_sales_analytics.dir/SalesStreamSimulator.cpp.o	2c057efea74a93dc
+572	612	1747024281645642776	Realtime_sales_analytics	ffec832a48ddcf60
